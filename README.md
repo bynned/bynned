@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bennycascarino@gmail.com**
 
-- ⚡ Fun fact **I think im funny**
+- ⚡ Fun fact **A. Le Coq > Any other beer**
 
 <p align="left">
 </p>
