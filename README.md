@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [HushHub](https://github.com/bynned/HushHub) and other school projects.
 
-- 🌱 I’m currently learning **Express, MongoDB And Maven**
+- 🌱 I’m currently learning **Express, MongoDB and Maven**
 
 - 💬 Ask me about **React, Java, C++, Arduino**
 
