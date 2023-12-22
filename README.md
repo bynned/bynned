@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [HushHub](https://github.com/bynned/HushHub) and other school projects.
 
-- 🌱 I’m currently learning **Express, MongoDB and Maven**
+- 🌱 I’m currently learning **MongoDB, SQLite, TypeScript and SpringBoot**
 
 - 💬 Ask me about **React, Java, C++, Arduino**
 
 - 📫 How to reach me **bennycascarino@gmail.com**
 
-- ⚡ Fun fact **A. Le Coq > Any other beer**
+- ⚡ Fun fact **Harry Kane is overrated**
 
 <p align="left">
 </p>
