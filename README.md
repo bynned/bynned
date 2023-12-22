@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benny!</h1>
-<h3 align="center">A passionate Software Engineering Student from Finland</h3>
+<h3 align="center">A Passionate Software Engineering Student From Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bynned&label=Profile%20views&color=0e75b6&style=flat" alt="bynned" /> </p>
 
