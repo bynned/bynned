@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bennycascarino@gmail.com**
 
-- ⚡ Fun fact **Harry Kane is overrated**
+- ⚡ Fun fact **Nothing beats 80s music**
 
 <p align="left">
 </p>
