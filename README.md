@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bynned&label=Profile%20views&color=0e75b6&style=flat" alt="bynned" /> </p>
 
-- 🔭 I’m currently working on [HushHub](https://github.com/bynned/HushHub) and other school projects.
+- 🔭 I’m currently working on [HushHub](https://github.com/bynned/HushHub) and [Bookshelf-Tracker](https://github.com/bynned/Bookshelf-Tracker).
 
 - 🌱 I’m currently learning **MongoDB, SQLite, TypeScript and SpringBoot**
 
