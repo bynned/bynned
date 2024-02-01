@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [HushHub](https://github.com/bynned/HushHub) and [Bookshelf-Tracker](https://github.com/bynned/Bookshelf-Tracker).
 
-- 🌱 I’m currently learning **MongoDB, SQLite, TypeScript and SpringBoot**
+- 🌱 I’m currently learning **MongoDB, SQLite, Svelte and SpringBoot**
 
 - 💬 Ask me about **React, Java, C++, Arduino**
 
